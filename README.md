@@ -24,8 +24,10 @@ We chose different types of parametric relationships and wetting conditions to s
 
 ## Information
 
-The folder "Simulations" contains simulation codes for data generation and validation. 
-The folder "InversePINN_RRE" contains notebooks containing the implementation of PINNs for the Inverse problem of RRE.  
+The folder "Simulations" contains simulation codes for data generation and validation.
+
+The folder "InversePINN_RRE" contains notebooks containing the implementation of PINNs for the Inverse problem of RRE, along with text file containing required dependencies.   
+
 
 
 ## Citation
