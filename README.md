@@ -19,7 +19,7 @@ We chose different types of parametric relationships and wetting conditions to s
 ## Graphical Abstract
 
 
-
+![](./InversePINN_RRE/GA.png.png)
 
 
 ## Information
