@@ -2,7 +2,6 @@
 
 Accompanying code for the manuscript "Estimating soil hydraulic parameters for unsaturated flow using Physics-Informed Neural Networks."
 
-
 ## Abstract
 
 Water movement in soil is essential for weather monitoring, prediction of natural disasters, and agricultural water management. Richardson-Richards' equation (RRE) is the characteristic partial differential equation for studying soil water movement.
@@ -18,17 +17,19 @@ We chose different types of parametric relationships and wetting conditions to s
 
 ## Graphical Abstract
 
-
-![](./InversePINN_RRE/GA.png.png)
+![Overview of the underlying PINN architecture.](./InversePINN_RRE/GA.png.png)
 
 
 ## Information
 
 The folder "Simulations" contains simulation codes for data generation and validation.
 
-The folder "InversePINN_RRE" contains notebooks containing the implementation of PINNs for the Inverse problem of RRE, along with text file containing required dependencies.   
-
+The folder "InversePINN_RRE" contains notebooks containing the implementation of PINNs for the Inverse problem of RRE, along with a text file containing required dependencies.   
 
 
 ## Citation
-Under review
+
+```bibtext
+Accepted at ICCS 2024.
+Arxiv Version coming soon.
+```
